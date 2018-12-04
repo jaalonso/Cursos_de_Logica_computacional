@@ -8,8 +8,6 @@ de la Universidad de Sevilla.
 
 Está ordenada por países y universidades.
 
-http:////www.cs.cornell.edu/courses/CS4860/2016fa
-
 * Alemania
   
 *** Universidad técnica de Dresden
@@ -70,6 +68,9 @@ http:////www.cs.cornell.edu/courses/CS4860/2016fa
 
 *** Universidad de Carnegie Mellon
 + [[http://leanprover.github.io/logic_and_proof][Logic and proof (Release 0.1)]]. ~ J. Avigad, R.Y. Lewis, F. van Doorn
+
+*** Cornell University
++ [[http://www.cs.cornell.edu/courses/cs4860/2016fa/][Applied logic]]. ~ [[http://www.cs.cornell.edu/Info/People/rc/][R. Constable]]
 
 *** Universidad de Nueva York
 + [[https://cs.nyu.edu/courses/spring04/G22.3033-003][Logic and verification (2004)]]. ~ [[https://cs.nyu.edu/~barrett/][Clark W. Barrett]]
