@@ -1,7 +1,7 @@
 #+TITLE:  Cursos de Lógica computacional
 #+AUTHOR: José A. Alonso
 #+DATE:   26 de mayo de 2016
-
+ 
 En esta página se recopilan cursos de lógica computacional que sirven de
 referencia a los cursos [[http://www.cs.us.es/~jalonso/cursos/li][Lógica informática]] y [[http://www.cs.us.es/~jalonso/cursos/lmf][Lógica matemática y fundamentos]]
 de la Universidad de Sevilla.
